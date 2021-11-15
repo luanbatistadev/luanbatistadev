@@ -6,7 +6,7 @@
 
 <p align="center"><img width=350 height=150 src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/mine%20sun.gif" /></p>
 
-## Who am I?
+## <p align="center">Who am I?</p>
 
 - I'm a mobile developer!
 - I currently work with flutter!
@@ -14,7 +14,7 @@
 - I am academic in systems analysis and development at (Federal Institute of Education, Science and Technology of Rondônia - IFRO)
 - Graduated in computer technician at (Federal Institute of Education, Science and Technology of Rondônia - IFRO)
 
-## <samp>What am i learning?</samp>
+## <samp><p align="center">What am i learning?</p></samp>
 
 - Figma: Visual design of a mobile site
 - Learning how flutter works behind the scenes
@@ -36,13 +36,13 @@
 
 <samp>
 
-## What do I know how to do?
+## <p align="center">What do I know how to do?</p>
 
 - I like to edit videos
 - I have a cuts channel on <a href="https://www.youtube.com/channel/UCcwByV-6d_JWdnEspfLTJpQ">Youtube</a>
-### Programming languages that I have affinity
+### <p align="center">Programming languages that I have affinity</p>
 - C# | Dart | Java| JavaScript | HTML | PHP | CSS | Python | C++
-### Knowledge in
+### <p align="center">Knowledge in</p>
 - Information security: nmap and etc | Data Structure | Data Science | APIs: Rest and GraphQL
 
 
