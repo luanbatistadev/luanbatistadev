@@ -1,10 +1,10 @@
-<p align="center"><img width=350 height=150 src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/mine%20sun.gif" /></p>
 
 <samp>
 
   
 # <samp>My name is Luan Batista</samp>
 
+<p align="center"><img width=350 height=150 src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/mine%20sun.gif" /></p>
 
 ## Who am I?
 
