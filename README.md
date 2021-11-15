@@ -1,9 +1,16 @@
 <samp>
+
+  
+### <samp>My name is Luan Batista_</samp>
+
+
 ## Who am I?
+
 - I'm a mobile developer!
 - I currently work with flutter!
 - I'm interested in design!
 - I am academic in systems analysis and development at (Federal Institute of Education, Science and Technology of Rondônia - IFRO)
+
 </samp>
 
 - 🔭 I’m currently working on ...
