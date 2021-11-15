@@ -4,7 +4,7 @@
   
 # <p align="center"><samp>Hello there! I'm Luan Batista</samp></p>
 
-<p align="center"><img width=350 height=150 src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/mine%20sun.gif" /></p>
+<p align="center"><img width=350 height=150 src="assets\images\mine sun.gif" /></p>
 
 ## <p align="center">Who am I?</p>
 
@@ -46,22 +46,24 @@
 - Information security: nmap and etc | Data Structure | Data Science | APIs: Rest and GraphQL
 
 
-<p align="center"><img width=350 height=150 src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/minecraft.gif" /></p>
+<p align="center"><img width=350 height=150 src="assets/images/minecraft.gif" /></p>
 
 # <p align="center">Bye! See you soon!</p>
 
 
 </samp>
+<p align="center">
 <a href="https://github.com/luanbatistadev">
-  <img align="right" alt="Luan Batista | GitHub" width="21px" src="assets\images\github ico.png" />
+  <img align="right" alt="Luan Batista | GitHub" width="45px" src="assets\images\github ico.png" />
 </a>
 <a href="https://twitter.com/luanbatistadev">
-  <img align="right" alt="Luan Batista | Twitter" width="21px" src="assets\images\twitter ico.jpeg" />
+  <img align="right" alt="Luan Batista | Twitter" width="45px" src="assets\images\twitter ico.png" />
 </a>
 <a href="https://br.linkedin.com/in/luan-rafael-batista-ramos-4379941a8">
-  <img align="right" alt="Luan Batista | LinkedIn" width="21px" src="assets\images\linkedin ico.ico" />
+  <img align="right" alt="Luan Batista | LinkedIn" width="45px" src="assets\images\linkedin ico.ico" />
 </a>
 
 <a href="https://www.twitch.tv/luangamegg">
-  <img align="right" alt="Luan Batista | Twitch" width="21px" src="assets\images\twitch ico.png" />
+  <img align="right" alt="Luan Batista | Twitch" width="45px" src="assets\images\twitch ico.png" />
 </a>
+</p>
