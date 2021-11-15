@@ -18,12 +18,33 @@
 - Learning how flutter works behind the scenes
 - I also want to improve my JavaScript knowledge to create a personal website.
 </samp>
+
+
+
 <a href="https://github.com/luanbatistadev">
   <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luanbatistadev&theme=dark" alt="luanbatistadev" /></p>
   <p align="center">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=luanbatistadev&theme=dark&show_icons=true" />
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanbatistadev&theme=dark&layout=compact" />
   </p>
+</a>
+
+
+### Top Repositories
+
+
+<a href="https://github.com/luanbatistadev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luanbatistadev&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/luanbatistadev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luanbatistadev&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/luanbatistadev">
+  <img align="right" alt="Luan Batista | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 
