@@ -46,9 +46,9 @@
 </samp>
 
 <a href="https://twitter.com/luanbatistadev">
-  <img align="right" alt="Luan Batista | Twitter" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconpacks.net%2Ffree-icon%2Ftwitter-logo-2429.html&psig=AOvVaw1DRYDUEZbgpW-vRSQgSAXD&ust=1637027965554000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMiL1cWimfQCFQAAAAAdAAAAABAI" />
+  <img align="right" alt="Luan Batista | Twitter" width="21px" src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/twitter%20ico.jpeg" />
 </a>
 <a href="https://br.linkedin.com/in/luan-rafael-batista-ramos-4379941a8">
-  <img align="right" alt="Luan Batista | LinkedIn" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonarchive.com%2Ftag%2Flinkedin&psig=AOvVaw0jIdqtK62RebXGTZjmYVj4&ust=1637027944354000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMDP-buimfQCFQAAAAAdAAAAABAD" />
+  <img align="right" alt="Luan Batista | LinkedIn" width="21px" src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/linkedin%20ico.ico" />
 </a>
 
