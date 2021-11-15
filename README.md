@@ -53,15 +53,15 @@
 
 </samp>
 <a href="https://github.com/luanbatistadev">
-  <img align="right" alt="Luan Batista | GitHub" width="21px" src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/github%20ico.png" />
+  <img align="right" alt="Luan Batista | GitHub" width="21px" src="assets\images\github ico.png" />
 </a>
 <a href="https://twitter.com/luanbatistadev">
-  <img align="right" alt="Luan Batista | Twitter" width="21px" src="https://github.com/luanbatistadev/luanbatistadev/blob/6a33b9c3deb96ceca0d94c266ac8573e5ca73c52/assets/images/twitter%20ico.jpeg" />
+  <img align="right" alt="Luan Batista | Twitter" width="21px" src="assets\images\twitter ico.jpeg" />
 </a>
 <a href="https://br.linkedin.com/in/luan-rafael-batista-ramos-4379941a8">
-  <img align="right" alt="Luan Batista | LinkedIn" width="21px" src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/linkedin%20ico.ico" />
+  <img align="right" alt="Luan Batista | LinkedIn" width="21px" src="assets\images\linkedin ico.ico" />
 </a>
 
 <a href="https://www.twitch.tv/luangamegg">
-  <img align="right" alt="Luan Batista | Twitch" width="21px" src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/twitch%20ico.png" />
+  <img align="right" alt="Luan Batista | Twitch" width="21px" src="assets\images\twitch ico.png" />
 </a>
