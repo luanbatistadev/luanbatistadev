@@ -45,7 +45,13 @@
 ### Knowledge in
 - Information security: nmap and etc | Data Structure | Data Science | APIs: Rest and GraphQL
 
+<p align="center">
+
+# Bye! See you soon!
+</p>
+
 <p align="center"><img width=350 height=150 src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/minecraft.gif" /></p>
+
 
 </samp>
 <a href="https://github.com/luanbatistadev">
