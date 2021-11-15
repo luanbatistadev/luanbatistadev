@@ -40,12 +40,15 @@
 - I have a cuts channel on <a href="https://www.youtube.com/channel/UCcwByV-6d_JWdnEspfLTJpQ">Youtube</a>
 ### Programming languages that I have affinity
 - C# | Dart | Java| JavaScript | HTML | PHP | CSS | Python | C++
-### knowledge in
+### Knowledge in
 - Information security: nmap and etc | Data Structure | Data Science | APIs: Rest and GraphQL
 
 </samp>
 
 <a href="https://twitter.com/luanbatistadev">
-  <img align="right" alt="Luan Batista | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="Luan Batista | Twitter" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconpacks.net%2Ffree-icon%2Ftwitter-logo-2429.html&psig=AOvVaw1DRYDUEZbgpW-vRSQgSAXD&ust=1637027965554000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMiL1cWimfQCFQAAAAAdAAAAABAI" />
+</a>
+<a href="https://br.linkedin.com/in/luan-rafael-batista-ramos-4379941a8">
+  <img align="right" alt="Luan Batista | LinkedIn" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonarchive.com%2Ftag%2Flinkedin&psig=AOvVaw0jIdqtK62RebXGTZjmYVj4&ust=1637027944354000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMDP-buimfQCFQAAAAAdAAAAABAD" />
 </a>
 
