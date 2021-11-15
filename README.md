@@ -1,7 +1,13 @@
-#My name is Luan Batista!
+<samp>
+# My name is Luan Batista!
 
 
-Here are some ideas to get you started:
+## Who am I?
+- I'm a mobile developer!
+- I currently work with flutter!
+- I'm interested in design!
+- I am academic in systems analysis and development at (Federal Institute of Education, Science and Technology of Rondônia - IFRO)
+</samp>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
