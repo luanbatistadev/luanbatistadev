@@ -15,8 +15,9 @@
 ## <samp>What am i learning?</samp>
 
 - Figma: Visual design of a mobile site
-
-
+- Learning how flutter works behind the scenes
+- I also want to improve my JavaScript knowledge to create a personal website.
+</samp>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
