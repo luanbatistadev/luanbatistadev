@@ -1,4 +1,3 @@
-# My name is Luan Batista!
 <samp>
 ## Who am I?
 - I'm a mobile developer!
