@@ -1,3 +1,8 @@
+
+  <img align="center" src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/mine%20sun.gif" />
+
+
+
 <samp>
 
   
@@ -45,9 +50,9 @@
 
 </samp>
 
-<a href="https://twitter.com/luanbatistadev">
-  <img align="right" alt="Luan Batista | Twitter" width="21px" src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/twitter%20ico.jpeg" />
-</a>
+
+
+
 <a href="https://br.linkedin.com/in/luan-rafael-batista-ramos-4379941a8">
   <img align="right" alt="Luan Batista | LinkedIn" width="21px" src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/linkedin%20ico.ico" />
 </a>
