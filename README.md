@@ -1,7 +1,4 @@
-
-  <img align=center width=900 height=250 src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/mine%20sun.gif" />
-
-
+<p align="center"><img width=350 height=150 src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/mine%20sun.gif" /></p>
 
 <samp>
 
