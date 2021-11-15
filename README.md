@@ -1,5 +1,5 @@
 
-<samp>
+<samp align="center">
 
   
 # <p align="center"><samp>Hello there! I'm Luan Batista</samp></p>
@@ -34,7 +34,7 @@
 
 
 
-<samp>
+<samp align="center">
 
 ## What do I know how to do?
 
