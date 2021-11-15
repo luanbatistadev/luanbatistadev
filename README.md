@@ -45,6 +45,8 @@
 ### Knowledge in
 - Information security: nmap and etc | Data Structure | Data Science | APIs: Rest and GraphQL
 
+<p align="center"><img width=350 height=150 src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/minecraft.gif" /></p>
+
 </samp>
 <a href="https://github.com/luanbatistadev">
   <img align="right" alt="Luan Batista | GitHub" width="21px" src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/github%20ico.png" />
@@ -56,3 +58,6 @@
   <img align="right" alt="Luan Batista | LinkedIn" width="21px" src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/linkedin%20ico.ico" />
 </a>
 
+<a href="https://www.twitch.tv/luangamegg">
+  <img align="right" alt="Luan Batista | Twitch" width="21px" src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/twitch%20ico.png" />
+</a>
