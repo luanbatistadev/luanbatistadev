@@ -1,7 +1,5 @@
-<samp>
 # My name is Luan Batista!
-
-
+<samp>
 ## Who am I?
 - I'm a mobile developer!
 - I currently work with flutter!
