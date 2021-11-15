@@ -21,8 +21,8 @@
 <a href="https://github.com/luanbatistadev">
   <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luanbatistadev&theme=dark" alt="luanbatistadev" /></p>
   <p align="center">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=luanbatistadev&theme=synthwave&show_icons=true" />
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanbatistadev&theme=synthwave&layout=compact" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=luanbatistadev&theme=dark&show_icons=true" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanbatistadev&theme=dark&layout=compact" />
   </p>
 </a>
 
