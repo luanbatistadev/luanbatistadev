@@ -14,6 +14,9 @@
 
 </samp>
 
+## <samp>What am i learning?</samp>
+
+<samp>Figma: Visual design of a mobile site</samp>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
