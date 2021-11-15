@@ -1,5 +1,5 @@
 
-  <img align=center width=750 height=250 src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/mine%20sun.gif" />
+  <img align=center width=900 height=250 src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/mine%20sun.gif" />
 
 
 
