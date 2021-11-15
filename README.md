@@ -34,4 +34,14 @@
   <img align="right" alt="Luan Batista | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
+<samp>
+
+## What do I know how to do?
+
+- I like to edit videos
+- I have a cuts channel on <a href="https://www.youtube.com/channel/UCcwByV-6d_JWdnEspfLTJpQ">Youtube</a>
+### Programming languages that I have affinity
+- C# | Dart | Java| JavaScript | HTML | PHP | CSS | Python | C++
+### knowledge in
+- Information security: nmap and etc | Data Structure | Data Science | APIs: Rest and GraphQL
 
