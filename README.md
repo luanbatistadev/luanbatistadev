@@ -19,7 +19,7 @@
 - I also want to improve my JavaScript knowledge to create a personal website.
 </samp>
 <a href="https://github.com/luanbatistadev">
-  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/demo/?user=luanbatistadev&theme=dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=background" alt="luanbatistadev" /></p>
+  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luanbatistadev&theme=dark" alt="luanbatistadev" /></p>
   <p align="center">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=luanbatistadev&theme=synthwave&show_icons=true" />
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanbatistadev&theme=synthwave&layout=compact" />
