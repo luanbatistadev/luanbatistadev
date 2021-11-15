@@ -12,11 +12,11 @@
 - I am academic in systems analysis and development at (Federal Institute of Education, Science and Technology of Rondônia - IFRO)
 - Graduated in computer technician at (Federal Institute of Education, Science and Technology of Rondônia - IFRO)
 
-</samp>
-
 ## <samp>What am i learning?</samp>
 
-<samp>Figma: Visual design of a mobile site</samp>
+- Figma: Visual design of a mobile site
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
