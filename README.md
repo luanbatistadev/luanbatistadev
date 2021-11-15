@@ -54,16 +54,15 @@
 </samp>
 <p align="center">
 <a href="https://github.com/luanbatistadev">
-  <img align="right" alt="Luan Batista | GitHub" width="45px" src="assets\images\github ico.png" />
+  <img align="center" alt="Luan Batista | GitHub" width="45px" src="assets\images\github ico.png" />
 </a>
 <a href="https://twitter.com/luanbatistadev">
-  <img align="right" alt="Luan Batista | Twitter" width="45px" src="assets\images\twitter ico.png" />
+  <img align="center" alt="Luan Batista | Twitter" width="45px" src="assets\images\twitter ico.png" />
 </a>
 <a href="https://br.linkedin.com/in/luan-rafael-batista-ramos-4379941a8">
-  <img align="right" alt="Luan Batista | LinkedIn" width="45px" src="assets\images\linkedin ico.ico" />
+  <img align="center" alt="Luan Batista | LinkedIn" width="45px" src="assets\images\linkedin ico.ico" />
 </a>
-
 <a href="https://www.twitch.tv/luangamegg">
-  <img align="right" alt="Luan Batista | Twitch" width="45px" src="assets\images\twitch ico.png" />
+  <img align="center" alt="Luan Batista | Twitch" width="45px" src="assets\images\twitch ico.png" />
 </a>
 </p>
