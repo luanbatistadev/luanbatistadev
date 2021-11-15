@@ -2,7 +2,7 @@
 <samp>
 
   
-# <samp>My name is Luan Batista</samp>
+# <p align="center"><samp>Hello there! I'm Luan Batista</samp></p>
 
 <p align="center"><img width=350 height=150 src="https://github.com/luanbatistadev/luanbatistadev/blob/main/assets/images/mine%20sun.gif" /></p>
 
