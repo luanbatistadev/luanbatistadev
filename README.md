@@ -1,7 +1,6 @@
 
 <samp>
 
-  
 # <p align="center"><samp>Hello there! I'm Luan Batista</samp></p>
 
 <p align="center"><img width=350 height=150 src="assets\images\mine sun.gif" /></p>
@@ -10,11 +9,11 @@
 
 - I'm a mobile developer!
 - I currently work with flutter!
-- I'm interested in design!
+- I'm interested in mobile design!
 - I am academic in systems analysis and development at (Federal Institute of Education, Science and Technology of Rondônia - IFRO)
 - Graduated in computer technician at (Federal Institute of Education, Science and Technology of Rondônia - IFRO)
 
-## <samp><p align="center">What am i learning?</p></samp>
+## <samp><p align="center">What am I learning?</p></samp>
 
 - Figma: Visual design of a mobile site
 - Learning how flutter works behind the scenes
