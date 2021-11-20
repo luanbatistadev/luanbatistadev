@@ -2,7 +2,7 @@
 
 # <p align="center"><samp>Hello there! I'm Luan Batista</samp></p>
 
-<p align="center"><img width=350 height=150 src="assets/images/Kirito%20ico.png" /></p>
+<p align="center"><img width=350 height=150 src="assets/images/mine%20sun.gif" /></p>
 
 ## <p align="center">Who am I?</p>
 
