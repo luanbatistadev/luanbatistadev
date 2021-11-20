@@ -1,9 +1,8 @@
-
 <samp>
 
 # <p align="center"><samp>Hello there! I'm Luan Batista</samp></p>
 
-<p align="center"><img width=350 height=150 src="assets\images\mine sun.gif" /></p>
+<p align="center"><img width=350 height=150 src="assets/images/Kirito%20ico.png" /></p>
 
 ## <p align="center">Who am I?</p>
 
@@ -16,7 +15,7 @@
 ## <samp><p align="center">What am I learning?</p></samp>
 
 - Figma: Visual design of a mobile site
-- Learning how flutter works behind the scenes
+- Learning how Flutter works behind the scenes
 - I also want to improve my JavaScript knowledge to create a personal website.
 </samp>
 
@@ -39,9 +38,25 @@
 
 - I like to edit videos
 - I have a cuts channel on <a href="https://www.youtube.com/channel/UCcwByV-6d_JWdnEspfLTJpQ">Youtube</a>
-### <p align="center">Programming languages that I have affinity</p>
-- C# | Dart | Java| JavaScript | HTML | PHP | CSS | Python | C++
-### <p align="center">Knowledge in</p>
+## <p align="center">Main knowledge in:</p>
+<p align="center">
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
+  <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png"></code>
+  <code><img height="24" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp-1920x1080.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/graphql/graphql.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+</p>
+
+### <p align="center">Basic knowledge</p>
 - Information security: nmap and etc | Data Structure | Data Science | APIs: Rest and GraphQL
 
 
