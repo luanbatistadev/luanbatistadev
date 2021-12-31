@@ -23,6 +23,7 @@
 
 <a href="https://github.com/luanbatistadev">
   <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luanbatistadev&theme=dark" alt="luanbatistadev" /></p>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanbatistadev&layout=compact&langs_count=7&theme=dark" style="max-width:"100%";>
 
 </a>
 
